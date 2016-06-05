@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  pillow2:
+    image: pillow2
+    build: ./pillow/python2
+
+  pillow3:
+    image: pillow3
+    build: ./pillow/python3
+

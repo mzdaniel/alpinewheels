@@ -13,13 +13,17 @@ This repo, and related docker images tries to fill this void until a better
 solution is found. The artifacts and images are gratiously built in the
 `dockerhub`_, and the actual wheels hosted on `github`_.
 
-For now, packages supported are:
+For now, packages supported for py27 and py35 are:
 
-  - pillow
+  - gevent-1.1.1
+  - greenlet-0.4.9
+  - Pillow-3.2.0
+  - psycopg2-2.6.1
 
 
 .. _Alpine Linux: https://github.com/gliderlabs/docker-alpine
 .. _Many projects: https://github.com/gliderlabs/docker-alpine/issues/57
 .. _glibc support: https://github.com/pypa/manylinux
 .. _lacks support: https://github.com/pypa/manylinux/issues/37
-
+.. _github: https://github.com/mzdaniel/alpinewheels/releases
+.. _dockerhub: https://hub.docker.com/r/mzdaniel/alpinewheels/builds/

@@ -21,3 +21,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+psycopg2:  https://github.com/psycopg/psycopg2/blob/master/LICENSE
+pillow:    https://github.com/python-pillow/Pillow/blob/master/LICENSE
+gevent:    https://github.com/gevent/gevent/blob/master/LICENSE
+greenlet:  https://github.com/python-greenlet/greenlet/blob/master/LICENSE
+
